@@ -1,0 +1,1 @@
+nvidia-docker run -it -v /home/ben/faceit/:/project faceswap bash

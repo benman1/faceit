@@ -5,6 +5,7 @@
 __pycache__
 *.pyc
 models
+models_gan
 pyyolo
 env
 data
